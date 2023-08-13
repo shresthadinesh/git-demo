@@ -1,0 +1,9 @@
+/* Apply some basic styling to the "Hello, World!" text */
+.hello-world {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 100px;
+    color: #333;
+    font-family: Arial, sans-serif;
+}
+
